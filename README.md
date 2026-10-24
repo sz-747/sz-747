@@ -13,31 +13,6 @@ Self taught engineer. Always learning. Thinking from first principles, finding r
 
 Writing [**The Fool’s Notebook**](https://itsstevezhu.com/blog/) on product, engineering, philosophy, and the questions in between.
 
-[GitHub projects →](https://github.com/sz-747?tab=repositories)
-
-### Selected projects
-
-Much of my current work is still in R&D and lives in private repositories.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/sz-747/atom-harness">Atom</a></h3>
-<p>A calm coding-agent harness that makes model capability easier to see, compare, and measure.</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/sz-747/OpenHSC">OpenHSC</a></h3>
-<p>Open-source AI skills for the NSW Higher School Certificate.</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<h3><a href="https://github.com/sz-747/skillify">Skillify</a></h3>
-<p>A practical standard for writing agent skills around outcomes, clear structure, and source-backed guidance.</p>
-</td>
-</tr>
-</table>
-
 ### Across the workbench
 
 `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `C#` · `PL/pgSQL` · `HTML` · `CSS` · `PowerShell` · `Shell`
