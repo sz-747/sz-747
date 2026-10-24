@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-compact-dark.svg">
-  <img src="assets/banner-compact-light.svg" alt="Hi, I’m Steve. building things that last." width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-steve-3d.png">
+  <img src="assets/banner-steve-3d.gif" alt="hi, i’m steve. building things that last. with a revolving 3D S favicon." width="100%">
 </picture>
 
 <picture>
