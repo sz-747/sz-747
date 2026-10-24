@@ -13,6 +13,9 @@ Self taught engineer. Always learning. Thinking from first principles, finding r
 
 Writing [**The Fool’s Notebook**](https://itsstevezhu.com/blog/) on product, engineering, philosophy, and the questions in between.
 
+- [Atom Harness](https://github.com/sz-747/atom-harness): a calm harness for working with coding agents.
+- [OpenHSC](https://github.com/sz-747/OpenHSC): open-source AI skills for the NSW Higher School Certificate.
+
 ### Across the workbench
 
 `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `C#` · `PL/pgSQL` · `HTML` · `CSS` · `PowerShell` · `Shell`
