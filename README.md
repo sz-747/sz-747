@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Hi, I’m Steve. building things that last." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-compact-dark.svg">
+  <img src="assets/banner-compact-light.svg" alt="Hi, I’m Steve. building things that last." width="100%">
 </picture>
 
 <picture>
