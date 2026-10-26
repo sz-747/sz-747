@@ -15,6 +15,7 @@ Writing [**The Fool’s Notebook**](https://itsstevezhu.com/blog/) on product, e
 
 - [Atom Harness](https://github.com/sz-747/atom-harness): a calm harness for working with coding agents.
 - [OpenHSC](https://github.com/sz-747/OpenHSC): open-source AI skills for the NSW Higher School Certificate.
+- [Utter](https://github.com/sz-747/utter-public): private, on-device dictation for Windows. Press a shortcut, speak, and the text is typed where your cursor is.
 
 ### Across the workbench
 
@@ -23,6 +24,8 @@ Writing [**The Fool’s Notebook**](https://itsstevezhu.com/blog/) on product, e
 ### How I build
 
 `Context engineering` · `Agent orchestration` · `Systems thinking` · `Product experimentation`
+
+The agent skills I use are collected in my [**skills registry**](https://skills.itsstevezhu.com).
 
 ### Growing with the work
 
